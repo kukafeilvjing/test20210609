@@ -87,6 +87,7 @@ font-size:40px
 
 .f-container {
    width:1000px;
+  border:2px solid blue;
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
