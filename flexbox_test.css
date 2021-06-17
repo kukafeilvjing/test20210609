@@ -49,6 +49,7 @@ justify-content: space-between;
    flex-wrap :wrap; 
 align-content: space-around;
 border:2px solid red;
+  margin-bottom:20px;
 }
 
 /*呂セイ試し*/
